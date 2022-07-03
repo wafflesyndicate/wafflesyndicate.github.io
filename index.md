@@ -13,7 +13,7 @@ We're not a "corporation", we're a **Syndicate** _that just happens to be incorp
 
 ### Season One
 
-We're working on enhancing general video game and metaverse experiences for everyone.
+We're working on enhancing video game and metaverse experiences for everyone.
 
 ### Contact
 
