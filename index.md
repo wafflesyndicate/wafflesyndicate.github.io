@@ -1,4 +1,4 @@
-## The Future is Sweet
+# The Future is Sweet
 
 We are Waffle Applied Sciences Syndicate and our goal is to leave the world in a better place than where we found it.
 
@@ -6,12 +6,12 @@ We are Waffle Applied Sciences Syndicate and our goal is to leave the world in a
 
 We're not a "corporation", we're a **Syndicate** _that just happens to be incorporated_.
 
-### Plan
+## Plan
 
 1. Waffle Syndicate, or Waffle, will have seasons.
 2. Each season will bring an awesome piece of software, hardware, or other useful tool to people.
 
-### Season One
+## Season One
 
 We're working on enhancing video game and metaverse experiences for everyone.
 
